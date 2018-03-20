@@ -12,17 +12,16 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Fecha de Lanzamiento"
+            android:text="Tiempo"
             android:textStyle="bold"
             android:textSize="20sp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Diciembre 20, 2018"
+            android:text="1 hora 24 minutos"
             android:textStyle="normal"
             android:textSize="16sp"/>
 
     </LinearLayout>
-
 
 </android.support.constraint.ConstraintLayout>
